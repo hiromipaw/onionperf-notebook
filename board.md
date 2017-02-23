@@ -8,4 +8,4 @@ The following image measures the download time w/ filesize 50 KiB. The date rang
 
 Results can be compared with the same time range for torperf:
 
-![50kb-torperf](https://raw.githubusercontent.com/hiromipaw/onionperf-notebook/master/torperf-2017-01-18-2017-01-29-torperf-50kb.svg "Torperf 50KiB")
+![50kb-torperf](https://github.com/hiromipaw/onionperf-notebook/raw/master/torperf-50.png "Torperf 50KiB")
